@@ -1,6 +1,8 @@
 pyspv
 =====
 
+TODO: Port to Support XC - Currently this is for bitcoin
+
 __WARNING__: *This is experimental software. Use at your own risk*
 
 pyspv is a no-bullshit, easy-to-use Python module implementing the full Bitcoin
